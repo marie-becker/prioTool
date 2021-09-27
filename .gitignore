@@ -1,0 +1,8 @@
+# Project exclude paths
+
+.idea
+SE1_PROJEKT.iml
+
+
+# Project exclude paths
+/out/
