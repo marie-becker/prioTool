@@ -8,7 +8,7 @@ public class Analyze implements ICommand {
 
     //Context (Strategy Pattern)
 
-    String s = "";
+    String s = "another one";
 
     static final String UNKNOWN = "Unknown Command!";
     private static IStrategy strategie;
