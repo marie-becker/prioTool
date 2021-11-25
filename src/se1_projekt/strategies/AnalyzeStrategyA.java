@@ -6,6 +6,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class AnalyzeStrategyA implements IStrategy {
+    String s = "";
     //Diese Klasse ist eine Konkrete Strategie (Strategy Pattern)
 
     //Basic Funktion
